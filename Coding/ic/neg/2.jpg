@@ -1,0 +1,259 @@
+<style type="text/css">
+  /***** To Hide Current Conditions Enable CSS below *****/
+  /*
+  .box2{
+    display:none;
+  }
+  */
+
+  /* Reset */
+  body,
+  div,
+  dl,
+  dt,
+  dd,
+  ul,
+  ol,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  pre,
+  code,
+  form,
+  fieldset,
+  legend,
+  input,
+  textarea,
+  p,
+  blockquote,
+  th,
+  td {
+    margin: 0;
+    padding: 0;
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  fieldset,
+  img {
+    border: 0;
+  }
+
+  address,
+  caption,
+  dfn,
+  th,
+  var {
+    font-style: normal;
+    font-weight: normal;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  caption,
+  th {
+    text-align: left;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 100%;
+    font-weight: normal;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: #d9d9d9 url(/files/Images/gf/bcf-bg.gif) center top repeat-x;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+  }
+
+  span.item {
+    color: #003367;
+    font-weight: bold;
+  }
+
+  .mr20 {
+    margin-right: 20px;
+  }
+
+  #content {
+    background: url(/files/Images/gf/bcf-bg.jpg) center top no-repeat;
+    padding-top: 80px;
+    text-align: center;
+  }
+
+  p {
+    font-size: 13px;
+    color: #656565;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+
+  a {
+    color: #009bc8;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #41c4dd;
+    text-decoration: underline;
+  }
+
+  h1 {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 15px;
+  }
+
+  h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 75px;
+  }
+
+  h2 {
+    font-size: 22px;
+    color: #003367;
+    margin-bottom: 8px;
+  }
+
+  .main {
+    width: 884px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    background: url(/files/Images/gf/shadow.png) left bottom no-repeat;
+  }
+
+  .mcontent {
+    min-height: 200px;
+    background: #f8f8f8;
+    width: 698px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .box {
+    float: left;
+    text-align: left;
+    padding: 20px;
+    width: 375px;
+  }
+
+  .box2 {
+    background: #eee;
+    float: left;
+    text-align: left;
+    min-height: 160px;
+    padding: 20px;
+    width: 220px;
+  }
+
+  .box2 a {
+    float: left;
+    margin-right: 10px;
+  }
+
+  a.get {
+    background: #3e7a9a;
+    color: #fff;
+    border: 1px solid #41728c;
+    padding: 3px 7px;
+    font-size: 16px;
+  }
+
+  a:hover.get {
+    background: #41728c;
+    border: 1px solid #3e7a9a;
+    text-decoration: none;
+  }
+
+  a.btn {
+    background: #1b95e0;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    margin-top: 15px;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+  }
+
+  a.btn:hover {
+    background: #0c7abf;
+    text-decoration: none;
+  }
+
+  a.btn-cc {
+    background: #439da5;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    margin-top: 15px;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+  }
+
+  a.btn-cc:hover {
+    background: #2f6d73;
+    text-decoration: none;
+  }
+</style>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>BC Ferries - Website Temporarily Unavailable</title>
+        <meta name="Description" content="BC Ferries' website is temporarily unavailable. Please check back soon.">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-20272420-1', 'auto'); ga('send', 'pageview');</script>
+</head>
+    <body>
+        <div class="container_12" id="content"> <img src="/files/Images/gf/bcf-logo.png" alt="BC Ferries Logo" style="margin-bottom:25px;width:180px">
+        <h1>Our website is temporarily unavailable</h1>
+        <h3>Please check back or contact our Customer Service Centre</h3>
+        <div class="main">
+        <div class="mcontent">
+        <div class="box mr20">
+        <h2>Customer Service Centre</h2>
+        <p><span class="item">Hours</span>: Mon-Fri, 6am-10pm / Sat-Sun, 7am-7pm<br>
+        <span class="item">Toll-Free (Canada &amp; US)</span>: 1-888-BCFERRY (1-888-223-3779)<br>
+        <span class="item">Phone (Rogers &amp; Telus):</span> *BCF (*223)<br>
+        <span class="item">Phone (Outside Canada &amp; US)</span>: 250-386-3431</p>
+        <p>For information on service interruptions during the outage:</p>
+        <p><a href="https://twitter.com/bcferries" target="_blank" class="btn"><em class="fab fa-twitter"></em>
+        &nbsp;Follow @BCFerries</a></p>
+        </div>
+        <div class="box2">
+        <h2 style="color:#439da5;">Current Conditions</h2>
+        <p>Looking for current conditions at our terminals?</p>
+        <p><a href="http://orca.bcferries.com:8080/cc/marqui/at-a-glance.asp" target="_blank" class="btn-cc"> View
+        Current Conditions</a></p>
+        </div>
+        </div>
+        </div>
+        </div>
+    </body>
+</html>
+
+<p><a href="Http://na1.givex.com/bcferries3/sm/PageClassic.aspx?g=30&l=1" target="_INTEREDIT"><image src="https://www.bcferries.com/images/pixel_clear.gif" border="0" width="4" height="4" /></a></p>
