@@ -15,5 +15,3 @@ img = base64.b64decode(ss)
 file = open(r'F:\PYcode\Coding\basimage\test1.jpg','wb') 
 file.write(img)  
 file.close()
-
-
