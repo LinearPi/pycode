@@ -7,10 +7,11 @@ from PIL.ImageOps import invert
 import time
 
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract.exe'
-image = Image.open('F:/PYcode/Coding/ic/mask.jpg', mode='r').convert("L")
+image = Image.open('F:/PYcode/Coding/ic/code.jpg', mode='r').convert("L")
 image.save(f'F:/PYcode/Coding/ic/{time.localtime().tm_hour}{time.localtime().tm_min}.png', quality=50)
-text = pytesseract.image_to_string(image, lang='chi_sim')
+text = pytesseract.image_to_string(image, lang='eng')
 print(text.replace(' ',''))  
+
 
 
 
