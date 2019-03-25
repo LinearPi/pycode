@@ -45,7 +45,7 @@ def data_enhancement(img):
             M = cv2.getPerspectiveTransform(approx_n_shape, canvas)
             result = cv2.warpPerspective(img, M, (0, 0))
             # result = cv2.resize(result,(600,400))          
-            cv2.imwrite("f:\\PYcode\\Coding\\ic\\result_ti2.jpg", result)
+            cv2.imwrite("f:\\PYcode\\Coding\\ic\\AAresult_ti2.jpg", result)
 
 if __name__ == "__main__":
     img_path  = "f:\\PYcode\\Coding\\ic\\people.jpg"
