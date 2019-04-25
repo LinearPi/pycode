@@ -1,0 +1,215 @@
+Request URL: http://59.225.209.96/affair/listData?applyType=0&busiType=1
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 59.225.209.96:80
+Referrer Policy: no-referrer-when-downgrade
+
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Connection: keep-alive
+Content-Type: application/json;charset=utf-8
+Date: Tue, 02 Apr 2019 01:20:12 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.14.0
+Transfer-Encoding: chunked
+X-Application-Context: egov-mana-ui:8080
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Content-Length: 14
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie: 
+    route=7babbba376c040cf4d1d5ca6e16fce45; 
+    JSESSIONID=node0su4koop4tmim17la9cwbgheey291.node0; 
+    SESSION=cb52f5cd-f70a-4494-90f9-2104184a38dd
+Host: 59.225.209.96
+Origin: http://59.225.209.96
+Referer: http://59.225.209.96/affair/listApply?applyType=0&busiType=1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+X-Requested-With: XMLHttpRequest
+
+
+/affair/listData?applyType=0&busiType=1
+{total: 0,…}
+paging: {id: null, idForStr: "null", shardKey: "5109", createTime: null, updateTime: null, deleteFlag: null,…}
+acceptDeptCode: null
+acceptDeptId: null
+acceptDeptName: null
+acceptTime: null
+affairCode: null
+affairIdList: null
+affairName: null
+affairParallelCode: null
+affairParallelName: null
+appendixSource: null
+applicantAddress: null
+applicantEmail: null
+applicantIdCard: null
+applicantName: null
+applicantPhone: null
+applicantPhotoId: null
+applicantPostalAddress: null
+applicantPostalCode: null
+applicantSex: null
+applicantType: null
+applyDate: null
+applyNum: null
+applyType: "0"
+appoveTimeLimit: null
+areaCode: null
+areaCodeLike: null
+areaCodes: null
+areaLevel: null
+basicInfoData: null
+bizStatus: "01"
+bizStatusArr: null
+busiIdList: null
+busiType: "1"
+canReceiveAffair: null
+cardType: null
+chargeAmount: null
+cnt: 0
+cntDate: null
+completeTimeEnd: null
+completeTimeStart: null
+consulationContent: null
+contactEmail: null
+contactIdCard: null
+contactName: null
+contactPhone: null
+contactSex: null
+contactsInfo: null
+contractAddress: null
+contractPhotoId: null
+contractPostalCode: null
+createDeptCode: null
+createDeptId: null
+createDeptName: null
+createTime: null
+creatorId: null
+creatorName: null
+currentPage: 1
+currentResult: 0
+daysType: null
+deadlineForBzbq: null
+decisionRemark: null
+deleteFlag: null
+deliveryType: null
+deptIds: null
+doThiingProperty: null
+due: null
+endDateTime: null
+endOpinion: null
+endTime: null
+endUserId: null
+endUserName: null
+entityClass: null
+entityOrField: false
+eventCode: null
+eventName: null
+eventType: null
+excelIds: null
+explains: null
+id: null
+idForStr: "null"
+implAreaCode: null
+implDeptCode: null
+implDeptId: null
+implDeptName: null
+implListId: null
+isCharge: null
+isImplPackage: null
+isJointTrail: null
+isMultilevel: null
+isParallel: null
+isProject: null
+isThread: null
+jointTrailCode: null
+legalPerson: null
+legalPersonCardType: null
+legalPersonInfo: null
+legalTimeLimit: null
+legalpersonIdCard: null
+licenseCertificateCode: null
+licenseCertificateNeme: null
+licenseDocumentsCode: null
+licenseDocumentsNeme: null
+licenseEndTime: null
+licenseRemark: null
+licenseStartTime: null
+licenseType: null
+mainProperty: null
+materialAudit: null
+materialCheck: null
+month: null
+naturalPersonInfo: null
+nodeStatus: null
+onePageRows: []
+onlineType: null
+other: null
+pageCurrentNum: 0
+pageSize: 10
+pageSizeNum: 0
+pageStr: ""
+params: null
+pd: {}
+performDeptCode: "00849050-x"
+pickupStatus: null
+pickupType: null
+projectEsheetId: null
+projectTempletId: null
+projectcode: null
+projectname: null
+promiseTimeLimit: null
+provinceCode: null
+remark: null
+replyContent: null
+roleScope: null
+searchKey: null
+seriesNumber: null
+shardKey: "5109"
+showCount: 10
+sidx: "id"
+sord: "desc"
+sortname: null
+sortorder: "asc"
+start: 0
+startTime: null
+status: null
+supervise: null
+sysCode: null
+totalDue: null
+totalDueLimit: null
+totalPage: 0
+totalResult: 0
+tripleReviewLevelCode: null
+tripleReviewLevelName: null
+updateTime: null
+userDeptId: null
+userDeptLevelCode: null
+vimport: null
+wfEditorUrl: null
+wfInstanceId: null
+wfTemplateId: null
+wfTemplateKey: null
+wfTemplateName: null
+wfTemplateVersion: null
+wfViewUrl: null
+year: null
+rows: []
+total: 0
+
+
+route=7babbba376c040cf4d1d5ca6e16fce45; 
+JSESSIONID=node0su4koop4tmim17la9cwbgheey291.node0; 
+SESSION=cb52f5cd-f70a-4494-90f9-2104184a38dd
+
+SESSION=6d33cf2e-d728-4565-bd8d-6ed283ed2067; 
+route=1c6037d6c177698822f08dddc01d18c6; 
+route=7babbba376c040cf4d1d5ca6e16fce45; 
+JSESSIONID=node0su4koop4tmim17la9cwbgheey291.node0; 
+SESSION=cb52f5cd-f70a-4494-90f9-2104184a38dd
