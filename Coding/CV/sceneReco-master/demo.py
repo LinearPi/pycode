@@ -20,7 +20,7 @@ while 1 :
       continue
     timer.tic()
     img,text_recs = getCharBlock(text_detector,im)
-    crnnRec(model,converter,img,text_recs)
+    crnnRec(model, converter, img,text_recs)
     print("Time: %f"%timer.toc())
 cv2.waitKey(0)    
 cv2.destroyAllWindows()

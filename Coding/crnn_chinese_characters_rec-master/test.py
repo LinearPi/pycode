@@ -18,10 +18,8 @@ import cv2
 str1 = alphabets.alphabet
 
 import argparse
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--images_path', type=str, default='test_images/per5.jpg', help='the path to your images')
-
 opt = parser.parse_args()
 
 # crnn params
@@ -69,7 +67,7 @@ if __name__ == '__main__':
 
     started = time.time()
     ## read an image
-    image = Image.open(opt.images_path)
+    # image = Image.open(opt.images_path)
     DATA_DIR = os.path.dirname('test.py')
     img_list = glob.glob(os.path.join(DATA_DIR, 'test_images', '*.png')) + \
                glob.glob(os.path.join(DATA_DIR, 'test_images', '*.jpg'))
