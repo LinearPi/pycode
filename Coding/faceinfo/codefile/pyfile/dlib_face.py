@@ -4,7 +4,7 @@ import cv2
 import dlib
 import numpy as np
  
-path = r"F:\PYcode\coding\faceinfo\007.jpg"
+path = r"F:\PYcode\coding\faceinfo\RDCenter\hong.jpg"
 img = cv2.imread(path)
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
  
@@ -14,7 +14,6 @@ detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor(
     r"F:\PYcode\coding\faceinfo\dlib_shapedata\shape_predictor_68_face_landmarks.dat"
 )
- 
 
 dets = detector(gray, 1)
 for face in dets:
@@ -40,4 +39,4 @@ for face in dets:
  
 cv2.waitKey(0)
 cv2.destroyAllWindows()
- 
+
