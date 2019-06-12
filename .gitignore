@@ -32,3 +32,5 @@ coding/DownloadGithub
 coding/faceinfo
 coding/two_step_license
 coding/CV
+deep_learning_computer_vision_python/Centroid/res10_300x300_ssd_iter_140000.caffemodel
+deep_learning_computer_vision_python/Centroid/MobileNetSSD_deploy.caffemodel
