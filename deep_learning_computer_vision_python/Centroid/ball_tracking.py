@@ -20,8 +20,8 @@ args = vars(ap.parse_args())
 # list of tracked points
 greenLower = (29, 86, 6)
 greenUpper = (64, 255, 255)
-lower_red = np.array([160,20,70])
-upper_red = np.array([190,255,255])
+lower_red = np.array([150,0,0])
+upper_red = np.array([255,150,150])
 
 lower_blue = np.array([101,50,38])
 upper_blue = np.array([110,255,255])
@@ -62,7 +62,7 @@ while True:
 	# construct a mask for the color "green", then perform
 	# a series of dilations and erosions to remove any small
 	# blobs left in the mask
-	mask = cv2.inRange(hsv, lower_blue, upper_blue)
+	mask = cv2.inRange(hsv, lower_red, upper_red)
 	mask = cv2.erode(mask, None, iterations=2)
 	mask = cv2.dilate(mask, None, iterations=2)
     # find contours in the mask and initialize the current
@@ -81,7 +81,8 @@ while True:
 		((x, y), radius) = cv2.minEnclosingCircle(c)
 		M = cv2.moments(c)
 		center = (int(M["m10"] / M["m00"]), int(M["m01"] / M["m00"]))
- 
+		print(center)
+		cv2.putText(frame, str(center),(40,40),cv2.FONT_HERSHEY_PLAIN, 2.0, (0, 0, 255), 2)		
 		# only proceed if the radius meets a minimum size
 		if radius > 10:
 			# draw the circle and centroid on the frame,
