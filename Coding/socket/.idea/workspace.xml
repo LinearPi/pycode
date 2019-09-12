@@ -2,577 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91162ae5-6c72-4b49-9973-d0d5d63bfcaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CV/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV/VOCdevkit/darknet" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/VOCdevkit/darknet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CV/chineseocr" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/chineseocr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CV/darknet" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/darknet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../faceinfo/stuff/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/ quadrilateral_done-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/1weimashibei-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/Bar_code_like-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/CONNET_HADOOP-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/Done_image_change-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/Fitting_data-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/QRcodeOPENCV4-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/baidu_API-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/color_analysis-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/image_infince-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/license_image-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/lincense_ocr-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/min_image_shape-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/new_dome-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/ocr_img-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/opencv34tutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/opencvTutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/openvc_Touri-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/zhihu_demo-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/.ipynb_checkpoints/zhihu_function_lincense-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/1134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/123num.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/12num.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/1weima.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/931.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/AAresult_ti2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/IDnumber.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/IDnumber1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/Idnum.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/address.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/aip-python-sdk-2.2.12.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/all_word.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/angle_done3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/beer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/book.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/code2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/.ipynb_checkpoints/openvc_Touri-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/1weimashibei.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/Bar_code_like.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/CONNET_HADOOP.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/Done_image_change.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/Fitting_data.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/QRcodeOPENCV4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/baidu_API.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/color_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/data_infor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/data_infor_aoto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/gas_mohu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/gass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/imageOCR.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/image_infince.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/license_image.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/lincense_ocr.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/min_image_shape.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/new_dome.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/ocr_img.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/opa_dome.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/opencv34tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/opencvTutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/opencv_bounder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/openvc_Touri.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/quadrilateral_done.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/zhihu_demo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/codefile/zhihu_function_lincense.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/coner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/coner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/coner3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/coner4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/day.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/emsdk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/eye1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/font_properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/for_eye.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/gender.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/haarcascade_eye.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/haarcascade_frontalface_default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/hand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idCardOcr-1-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/Jenkinsfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/address_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/address_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/address_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/birth_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/birth_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/birth_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/day_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/day_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/day_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/findidcard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idcard_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idcard_mask2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idcard_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idcard_recognize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idcardocr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idnum_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idnum_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/idnum_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/month_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/month_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/month_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/name_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/name_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/name_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/nation_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/nation_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/nation_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/postman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/sex_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/sex_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/sex_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/tessdata/idnum.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/tessdata/nation.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/tessdata/sex.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/testimages/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/tmp/01fd8128-3ba0-11e8-a733-000c29ed8056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/year_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/year_mask_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/idcardocr-master/year_mask_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/data/combiningsymbols.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/data/pangram.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/jTessBoxEditor.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/lib/AppleJavaExtensions.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/lib/jai_imageio.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/program.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/program.log.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/readme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/font_properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.arial.exp0.box" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.arial.exp0.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.font_properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.frequent_words_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.times.exp0.box" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.times.exp0.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.unicharambigs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/samples/vie/vie.words_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/cntraining.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/combine_tessdata.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/mftraining.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/shapeclustering.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/Makefile.am" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/ambigs.train" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/api_config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/bigram" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/box.train" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/box.train.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/digits" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/get.image" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/hocr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/inter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/kannada" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/linebox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/logfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/makebox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/quiet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/rebox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/strokewidth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/configs/unlv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/eng.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/Makefile.am" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/batch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/batch.nochop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/matdemo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/msdemo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/nobatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tessdata/tessconfigs/segdemo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/tesseract.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/unicharset_extractor.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tesseract-ocr/wordlist2dawg.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/tools/train.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/train" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/train.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/jTessBoxEditor/versionchanges.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/kl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/666-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/Q1.1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/QRcodeOPENCV4-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V2AndV5-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V2andMaxpool-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V2andQR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V3_Corrosion and expansion_not_working-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V4-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V4_fix-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/license_V5-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/pdf_recognition-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/test_h-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.ipynb_checkpoints/thold-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/0012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/666.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/Q1.1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/QRcodeOPENCV4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/V4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/V5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/Wally.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/Wheres_Wally.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/change_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_Blur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_GaussianBlur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_bilateralFilter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_changed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_medianBlur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/1 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/10 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/11 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/12 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/13 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/14 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/15 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/16 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/17 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/18 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/19 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/2 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/20 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/21 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/22 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/3 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/4 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/5 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/6 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/7 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/8 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/9 (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/clahe_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/contours.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/findcontour.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/imageSobelOut.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/q51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/raw_mage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/reimg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/res.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/resoutlicence.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/save.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/save1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/save2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/save3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/save4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/source.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/source1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/source2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/source_de.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/ssfds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/th2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/th3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/through.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/through1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/through2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/throughk5k15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/throughk5k7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/throughk7k15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/throughk7k7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/img_out/throughk7k75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V2AndV5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V2andMaxpool.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V2andQR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V3_Corrosion and expansion_not_working.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V4_fix.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/license_V5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/newimage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/over.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/resoutlicence.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/save3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/save4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/say.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/saynewimage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/showimg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/sou/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/sou/002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/sou/003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/sou/004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/sou/005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/test_h.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/thold.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/codebook/threshold.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/address.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/capital.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/legal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/limit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/name.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/resoutlicence.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/scope.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/start.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/type.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/out/uuid.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/62.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/AA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/AAxpaper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/AAxwarped.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/QRcode.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/QRcode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/QRcodeOPENCV4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/W_H.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/license.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/license_copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/new_license.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/point.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/warped.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/xichen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/xichen1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/xichenLicense.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/license/source_img/营业执照副本.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/ll.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/month.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/name.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/name1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/name2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/nation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/nature.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/num.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/opencv-corner-detection-sample.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/opencv-feature-matching-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/opencv-feature-matching-template.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/opencv-template-for-matching.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/opencv-template-matching-python-tutorial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/output.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/people-walking.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/people.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_done9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_ti1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/result_ti2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/tai.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/thold.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/ti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/tiGas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/try_angle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/year.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/year1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ic/火车票.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../deep_learning_computer_vision_python/Centroid/ball_tracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deep_learning_computer_vision_python/Centroid/ball_tracking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/.ipynb_checkpoints/jpg2tif-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/jpg2tif.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/idnum9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/source_img/year5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/test/test9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/font_properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.inttemp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.normproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.pffmtable" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.shapetable" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/fontyp.unicharset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/langyp.fontyp.exp0.box" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/langyp.fontyp.exp0.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/langyp.fontyp.exp0.tr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/langyp.unicharset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga1.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga10.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga11.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga12.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga13.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga14.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga15.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga2.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga3.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga4.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga5.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga6.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga7.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga8.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/tif/source_imga9.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/train/01.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/train/02.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/train/03.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/train/04.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../num_training/train/05.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opencv-leraning/emsdk" beforeDir="false" afterPath="$PROJECT_DIR$/../opencv-leraning/emsdk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tools/labelImg" beforeDir="false" afterPath="$PROJECT_DIR$/../../tools/labelImg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -587,15 +21,12 @@
     <SUITE FILE_PATH="coverage/socket$02_mtcomp.coverage" NAME="02.mtcomp Coverage Results" MODIFIED="1565680975139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mutilprocess_threading" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mutilprocess_threading/01.threading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-              <folding>
-                <element signature="e#1#17#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -603,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mutilprocess_threading/02.mtcomp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+            <state relative-caret-position="646">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -615,11 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mutilprocess_threading/03.mutilprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="38">
               <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -677,7 +105,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/readBooks/translate_pdf_code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -803,24 +231,19 @@
       <option name="presentableId" value="Default" />
       <updated>1565677062277</updated>
       <workItem from="1565677063794" duration="4693000" />
+      <workItem from="1565773971103" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4693000" />
+    <option name="totallyTimeSpent" value="4736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34383956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34885386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26244953" />
@@ -828,22 +251,35 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mutilprocess_threading/01.threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mutilprocess_threading/02.mtcomp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        <state relative-caret-position="646">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -852,21 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mutilprocess_threading/03.mutilprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="38">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutilprocess_threading/01.threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#1#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

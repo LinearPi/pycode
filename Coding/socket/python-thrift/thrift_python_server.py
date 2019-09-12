@@ -50,7 +50,7 @@ def detect_img():
         if len(a)==1: 
             try:
                 print(c[0])
-                image = Image.open(c[0])
+                # image = Image.open(c[0])
                 b['a'] = "ok ss"
                 a = []               
 
@@ -72,16 +72,9 @@ if __name__ == '__main__':
     server = TServer.TThreadPoolServer(processor, transport, tfactory, pfactory)
 
     print('Starting the server...')
-    thread1 = threading.Thread(target=detect_img,name="线程1")
+    thread1 = threading.Thread(target=detect_img, name="线程1")
 
     #创建线程完毕之后，一定要启动
     thread1.start()
     server.serve()
     print('done.')
-
-
-
-
-
-
-

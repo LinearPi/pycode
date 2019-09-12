@@ -28,6 +28,8 @@ if __name__ == '__main__':
     # 3.THsHaServer模式（半同步半异步） (×)
     # 4.TThreadPoolServer模式   (!)
     # 5.TThreadedSelectorServer (!)
+    # 6.TThreadedServer  (!)
+
 
     print("start server ....")
     server.serve()

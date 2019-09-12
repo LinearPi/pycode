@@ -10,6 +10,7 @@ class A(multiprocessing.Process):
         self._n = n
 
     # 定义一个run方法， thread的主方法
+    
     def run(self):
         while True:
             print("this is %s" % self._n)

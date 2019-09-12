@@ -6,6 +6,8 @@ from tutorial_new import Calculator
 import multiprocessing
 from multiprocessing import Pool
 import time
+import threading
+
 t1 = time.time()
 
 # Make socket
@@ -25,7 +27,7 @@ transport.open()
 
 cores = multiprocessing.cpu_count()
 print(cores)
-pool = multiprocessing.Pool(processes=cores)
+# pool = multiprocessing.Pool(processes=cores)
 
 img_url = "wo shi ni de shei"
 
